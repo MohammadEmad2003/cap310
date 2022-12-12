@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "902903571752",
+    "firebase_url": "https://ultimatekmk-a3b41-default-rtdb.firebaseio.com",
+    "project_id": "ultimatekmk-a3b41",
+    "storage_bucket": "ultimatekmk-a3b41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902903571752:android:f9f78c26ba6eb2eae95c1d",
+        "android_client_info": {
+          "package_name": "com.example.ultimatekmk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902903571752-hkvu8bfncdag0r41r31b24vp90auc1ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6CFpRykqrqUOB_GaNKKjskg6JCvz2xtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902903571752-hkvu8bfncdag0r41r31b24vp90auc1ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,65 @@
+name: ultimatekmkfinal
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.5 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  pin_code_fields: ^7.4.0
+  provider: ^6.0.3
+  http: ^0.13.4
+  syncfusion_flutter_charts: ^20.3.59
+  ternav_icons: ^1.0.0
+  flutter_svg: ^1.1.1+1
+  flutter_local_notifications: ^9.7.0
+  font_awesome_flutter: ^8.2.0
+  charts_flutter: ^0.12.0
+  pdf: ^3.1.0
+  path_provider: ^2.0.1
+  open_file: ^3.1.0
+  intl: ^0.17.0
+  cloud_firestore: ^4.1.0
+  firebase_core: ^2.3.0
+  firebase_auth: ^4.1.5
+  firebase_database: ^10.0.6
+  rflutter_alert: ^2.0.4
+  google_sign_in: ^5.4.2
+  url_launcher: ^6.1.7
+  fluent_ui: ^4.1.2
+  firedart: ^0.9.0+1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - images/
+    - images/onboarding/
+    - images/icons/
+
+  fonts:
+    - family: Montreal
+      fonts:
+        - asset: fonts/Montreal-Regular.ttf
+        
+    - family: Myriadpro
+      fonts:
+        - asset: fonts/MYRIADPRO-REGULAR.OTF
+        
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/Cairo-Regular.ttf
+
+    - family: Arial
+      fonts:
+        - asset: assets/fonts/Arial.ttf
+
